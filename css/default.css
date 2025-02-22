@@ -2,9 +2,7 @@ body {
 	text-align: left;
 	background-color: white;
 	color: black;
-	-webkit-column-width: 30em;
-	-moz-column-width: 30em;
-	column-width: 30em;
+	min-height: 100vh; 
 }
 
 a {
